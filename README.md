@@ -1,8 +1,7 @@
 # Overview :
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/WC_insufficient_result.JPG)
 
-
-special thanks to prof. Won in Chungnam National University
+Youtube Link: https://www.youtube.com/watch?v=NA5RpJzQaZE
 
 # What you need
 1. Python, Android phone with camera support, 'IP cam' app in its android.
