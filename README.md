@@ -19,11 +19,20 @@ Allocate the file destination to run the program
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/file%20location.JPG)
 
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/WC_insufficient_result.JPG)
+
 In python command
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/WC_insufficient_monitoring.JPG)
 
-You can check the Hough Line Transform algorithm by evaluating with Rho-Theta plane analysis graph below in Python command
+To scrutinize the result Hough line image, you may trigger the button shown "E_RT_Plane" then the program will compute and yield Rho-Theta plane by process. It would take a moment to do so, varing computing capacity.
+
+As a result, its plane shown below. You can check the Hough Line Transform algorithm by evaluating with Rho-Theta plane analysis graph below in Python command
+![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/Rho-Theta%20plane.JPG)
+
+In Python command
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/WC_insufficient_result_HL_RT%20plane.JPG)
+
+Then you notice that "Max value in 2D array is (968,29)", which means that there is a specific point where the highest value assigned in Rho-Theta plane.
+![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/Rho-Theta%20plane_968_29.JPG)
 
 By changing image process properties:
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/WC_sufficient_result.JPG)
