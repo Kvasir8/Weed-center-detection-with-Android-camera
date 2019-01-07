@@ -10,9 +10,11 @@ special thanks to prof. Won in Chungnam National University
 
 *Make sure that both PC and Android Phone is connected one another in the same Local Area Network and assigned proper Local IP.
 
-Algorithms : Softmax + Deep Neural Net + Drop out + Adam optimizer + Mini batch + Relu
+# Utilzied Algorithms
+Hough Line Transform, Canny Edge, Gaussian Filter,  Line Intersection
+HSV range, Dilation & Erosion
 
-This program is designed to classfiy hand shapes with utilizing image recognition using python and openCV, and allows you to identify which hand action that you intend to. There are three classifications: zero & one & two, and each value is assigned to its own label. The principle explained in detail by following pictures and descriptions :
+This program is designed to locate the weed center from the top view.
 
 # Program execution process
 Allocate the file destination to run the program 
