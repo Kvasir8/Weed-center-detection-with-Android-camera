@@ -42,6 +42,6 @@ By changing image process properties:
 In monitoring
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/WC_sufficient_monitoring_arithmetic%20mean.JPG)
 
-
+# Detecting multiple weeds with HSV range
 Additionally, you can recognize multiple weeds with detecting specific HSV range, and the result can be found below with setting properties.
 ![alt text](https://github.com/Kvasir8/Weed-center-detection-with-Android-camera/blob/master/explanation%20pics/WR_HSV%20range.JPG)
